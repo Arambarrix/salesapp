@@ -19,6 +19,7 @@ public class Produit {
     private Integer id;
     private String libelle;
     private String description;
+    private Double note;
     @ManyToOne
     @OnDelete(action = OnDeleteAction.SET_NULL)
     private Categorie categorie;
