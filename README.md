@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ## Utilisation
 ### Backend
-L'API RESTful est disponible à l'adresse http://localhost:8080/api. Vous pouvez utiliser des outils comme Postman pour tester les différents endpoints (gestion des commandes, utilisateurs, stocks, etc.).
+L'API RESTful est disponible à l'adresse http://localhost:8080/salesapp/api. Vous pouvez utiliser des outils comme Postman pour tester les différents endpoints (gestion des commandes, utilisateurs, stocks, etc.).
 
 ### Frontend Utilisateurs
 Accédez à l'interface utilisateur via http://localhost:4200. Les utilisateurs peuvent naviguer sur le site, ajouter des produits à leur panier, et finaliser leur commande.
